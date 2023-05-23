@@ -15,7 +15,4 @@ public class HomeController {
         return "Hello World!";
     }
 
-    public static void main(String[] args) {
-        SpringApplication.run(HomeController.class, args);
-    }
 }
